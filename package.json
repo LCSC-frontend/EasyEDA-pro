@@ -24,6 +24,7 @@
     "di18n-translate": "0.0.9",
     "jquery": "^3.1.1",
     "popper.js": "^1.12.9",
-    "raven-js": "^3.22.0"
+    "raven-js": "^3.22.0",
+    "tui-editor": "^1.0.1"
   }
 }
