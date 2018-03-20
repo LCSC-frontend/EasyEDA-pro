@@ -35,6 +35,7 @@
     "bootstrap": "^4.0.0",
     "di18n-translate": "0.0.9",
     "jquery": "^3.1.1",
+    "noty": "^3.2.0-beta",
     "popper.js": "^1.12.9",
     "raven-js": "^3.22.0",
     "semantic-ui": "^2.3.0",
